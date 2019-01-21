@@ -1,5 +1,7 @@
 <?php
 namespace DevhatsAmazon;
+use \Puc_v4_Factory as UpdateChecker;
+
 new Admin;
 
 class Admin
