@@ -7,7 +7,10 @@ class Admin
   public $github = '4ae4d5ef5a1b31960256d5ec955face763d12757';
 
   public function __construct()
-  {
+  {    
+    // init update checker
+    $this->update_checker();
+    
     // register menu
     add_action('admin_menu', array( $this, 'register_menu' ) );
   }
