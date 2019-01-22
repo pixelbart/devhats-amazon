@@ -33,8 +33,8 @@ class Admin
   {
     add_submenu_page(
       'options-general.php',
-      __( 'Devhats Amazon', DH_AMAZON_TEXTDOMAIN ),
-      __( 'Devhats Amazon', DH_AMAZON_TEXTDOMAIN ),
+      __( 'Simple Amazon', DH_AMAZON_TEXTDOMAIN ),
+      __( 'Simple Amazon', DH_AMAZON_TEXTDOMAIN ),
       'manage_options',
       'devhats-amazon',
       array( $this, 'settings_callback' )
