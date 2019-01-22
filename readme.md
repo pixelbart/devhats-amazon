@@ -1,6 +1,6 @@
 # Help
 
-You can use two simple functions to save data from amazon into your database and retrieve it.
+You can use two simple functions to save data from amazon into your database and retrieve it. Settings can be found under `settings` -> `Simple Amazon`.
 
 ## Retriving data from database (array)
 Can be used to retrieve informations from products you saved with `devhats_amazon_get_product();`.
