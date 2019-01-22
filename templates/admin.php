@@ -1,5 +1,5 @@
 <div class="wrap">
-  <h1>Devhats Amazon</h1>
+  <h1>Simple Amazon</h1>
 
   <form method="post" action="options.php">
 
