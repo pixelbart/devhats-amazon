@@ -6,7 +6,7 @@ new Admin;
 
 class Admin
 {
-  public $github = '4ae4d5ef5a1b31960256d5ec955face763d12757';
+  public $github = '';
 
   public function __construct()
   {    
