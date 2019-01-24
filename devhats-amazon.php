@@ -3,8 +3,8 @@
 Plugin Name: Simple Product Advertising API Plugin
 Description: Mit diesem Plugin lassen sich mit Hilfe der Amazon ASIN Produkte auf der Seite einbinden.
 Version: 1.0.0
-Author: Kevin Pliester
-Author URI: https://pixelbuben.de
+Author: Pixelbart
+Author URI: https://pixelbart.de
 License: GPLv2 or later
 Text Domain: devhats-amazon
 */
