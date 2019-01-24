@@ -21,4 +21,5 @@ devhats_amazon_update_product($asin);
 ## Credits
 
 https://www.kritzelblog.de/ - for the idea  
-https://partnernet.amazon.de/ - for the api
+https://partnernet.amazon.de/ - for the api  
+https://github.com/YahnisElsts/ - for the update checker
