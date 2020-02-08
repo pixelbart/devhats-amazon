@@ -20,7 +20,7 @@ class Admin
   public function update_checker()
   {
     require plugin_dir_path( DH_AMAZON_PLUGIN ) . 'vendor/plugin-update-checker/plugin-update-checker.php';
-    $update_checker = UpdateChecker::buildUpdateChecker(
+    $update_checker = Puc_v4_Factory::buildUpdateChecker(
       'https://github.com/pixelbart/devhats-amazon/',
       DH_AMAZON_PLUGIN,
       'devhats-amazon'
