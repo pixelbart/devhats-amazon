@@ -148,7 +148,8 @@ class Amazon
 
     return $results;
   }
-
+  
+  // https://www.kritzelblog.de/
   public function request($asin, $items = true)
   {
     $option = $this->options;
